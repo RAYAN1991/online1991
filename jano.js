@@ -3548,7 +3548,7 @@ jano200.on("message", message => {
 
 jano.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`JUST ALLAH`];
+  let statuses = [`RAYAN`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano.user.setActivity(STREAMING, {
@@ -6140,7 +6140,7 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
+jano.login("OTYwODkzMDI1ODUxMTc0OTYy.YkxE9g.fwUdeyd6RM6VNDECktwVKTiqHZs");
 jano2.login("");
 jano3.login("");
 jano4.login("");
